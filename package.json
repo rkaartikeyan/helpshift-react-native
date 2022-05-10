@@ -1,6 +1,6 @@
 {
   "name": "helpshift-react-native",
-  "version": "7.9.0",
+  "version": "7.9.1",
   "description": "Helpshift React Native wrapper",
   "homepage": "https://github.com/readehelpshift/helpshift-react-native",
   "main": "index.js",
@@ -13,9 +13,9 @@
   "author": "Reade Lobdill",
   "license": "",
   "peerDependencies": {
-    "react-native": "^0.41.2"
+    "react-native": "^0.68.0"
   },
   "dependencies": {
-    "prop-types": "^15.7.2"
+    "prop-types": "^15.8.1"
   }
 }
